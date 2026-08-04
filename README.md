@@ -32,8 +32,9 @@ I am an engineering student at NSUT with a strong focus on electronics design an
 ### 🚀 Featured Projects
 * **Software Developement:** Developed Project Management System and a simple weather app and Expense Tracker.
 * **Embedded Applications:** Designed robust firmware in C/C++ running on ESP32 and Arduino Nano architectures.
-
-
+## 🤞Random Quote
+“Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.”
+― Rumi
 ### 📫 How to reach me
 * **Email:** mdfaizankhan1500@gmail.com
 
