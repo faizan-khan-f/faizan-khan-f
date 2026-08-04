@@ -1,6 +1,6 @@
 ## Hi there 👋 Whats Up!
 
-I am an engineering student with a strong focus on electronics design and software development.
+I am an engineering student at NSUT with a strong focus on electronics design and software development.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
