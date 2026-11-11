@@ -30,7 +30,7 @@ I am an engineering student at NSUT with a strong focus on electronics design an
 ![CST Studio](https://img.shields.io/badge/CST%20Studio-005587?style=flat-square)
 
 ### 🚀 Featured Projects
-* **Software Developement:** Developed and deploy An AI Integrated Full stack Project Idea Rewire on MERN.![Rewire](https://rewire-full-stack-mern.vercel.app/)
+* **Software Developement:** Developed and deploy An AI Integrated Full stack Project Idea Rewire on MERN.[Rewire.](https://rewire-full-stack-mern.vercel.app/)
 * **Embedded Applications:** Designed robust firmware in C/C++ running on ESP32 and Arduino Nano architectures.
 ## 🤞Random Quote
 “Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.”
